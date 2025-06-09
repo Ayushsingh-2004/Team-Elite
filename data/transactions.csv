@@ -1,0 +1,10 @@
+CustomerID,PurchaseAmount,PurchaseDate,Category,PaymentMethod
+101,250,2023-06-01,Electronics,Card
+102,80,2023-06-02,Groceries,Cash
+103,120,2023-06-03,Clothing,UPI
+104,300,2023-06-04,Electronics,Card
+105,150,2023-06-05,Furniture,UPI
+106,200,2023-06-06,Furniture,Cash
+107,100,2023-06-07,Clothing,Card
+108,180,2023-06-08,Groceries,UPI
+
